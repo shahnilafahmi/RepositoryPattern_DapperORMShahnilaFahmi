@@ -45,7 +45,7 @@ namespace ERP.Data.DataRepository.HomeDataDapperRepository
         public HomeDataDapperRepository()
         {
             // connectionString = @"Data Source=localhost\SQLEXPRESS;Initial Catalog=EmployeeDB;Trusted_Connection=True";
-             connectionString = GenericConstants.ConnectionStringHRMS;
+             connectionString = GenericConstants.ConnectionStringDB2;
             dapperManager = new DapperManager(connectionString);
         }
 

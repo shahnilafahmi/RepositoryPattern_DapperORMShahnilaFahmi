@@ -33,3 +33,15 @@ C:\Projects\HRMS\ERP\ERP.Application\obj\Debug\ERP.Application.csproj.CoreCompil
 C:\Projects\HRMS\ERP\ERP.Application\obj\Debug\ERP.Application.csproj.CopyComplete
 C:\Projects\HRMS\ERP\ERP.Application\obj\Debug\ERP.Application.dll
 C:\Projects\HRMS\ERP\ERP.Application\obj\Debug\ERP.Application.pdb
+C:\Projects\HRMS_GITHUB\ERP.Application\bin\Debug\ERP.Application.dll
+C:\Projects\HRMS_GITHUB\ERP.Application\bin\Debug\ERP.Application.pdb
+C:\Projects\HRMS_GITHUB\ERP.Application\bin\Debug\ERP.Core.dll
+C:\Projects\HRMS_GITHUB\ERP.Application\bin\Debug\ERP.Data.dll
+C:\Projects\HRMS_GITHUB\ERP.Application\bin\Debug\ERP.Core.pdb
+C:\Projects\HRMS_GITHUB\ERP.Application\bin\Debug\ERP.Data.pdb
+C:\Projects\HRMS_GITHUB\ERP.Application\bin\Debug\ERP.Data.dll.config
+C:\Projects\HRMS_GITHUB\ERP.Application\obj\Debug\ERP.Application.csproj.AssemblyReference.cache
+C:\Projects\HRMS_GITHUB\ERP.Application\obj\Debug\ERP.Application.csproj.CoreCompileInputs.cache
+C:\Projects\HRMS_GITHUB\ERP.Application\obj\Debug\ERP.Application.csproj.CopyComplete
+C:\Projects\HRMS_GITHUB\ERP.Application\obj\Debug\ERP.Application.dll
+C:\Projects\HRMS_GITHUB\ERP.Application\obj\Debug\ERP.Application.pdb

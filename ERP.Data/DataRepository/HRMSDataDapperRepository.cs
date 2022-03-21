@@ -191,7 +191,7 @@ namespace ERP.Data.DataRepository.SecurityDataDapperRepositor
         public HRMSDataDapperRepository()
         {
 
-            connectionString = GenericConstants.ConnectionStringHRMS;
+            connectionString = GenericConstants.ConnectionStringDB2;
             dapperManager = new DapperManager(connectionString);
         }
 

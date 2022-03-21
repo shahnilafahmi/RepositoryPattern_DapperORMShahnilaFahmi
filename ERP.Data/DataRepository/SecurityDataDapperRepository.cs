@@ -76,7 +76,7 @@ namespace ERP.Data.DataRepository.SecurityDataDapperRepositor
         public SecurityDataDapperRepositor()
         {
 
-            connectionString = GenericConstants.ConnectionStringSetUp;
+            connectionString = GenericConstants.ConnectionStringDB1;
             dapperManager = new DapperManager(connectionString);
         }
 

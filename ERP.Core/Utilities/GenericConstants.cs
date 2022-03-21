@@ -22,7 +22,7 @@ namespace ERP.Core.Utilities
         public const string GetDefaultPage = "/Default.aspx";
         public const string EmailLog = "Logs/EmailLog";
         //public const string ApplicationPath = "http://localhost:3000/";
-        public const string ApplicationPath = "http://192.168.61.32:999/";
+        public const string ApplicationPath = "http://192.12.123.25:999/";
 
         #region DB_NAMES
 

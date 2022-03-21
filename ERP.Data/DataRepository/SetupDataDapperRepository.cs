@@ -218,7 +218,7 @@ namespace ERP.Data.DataRepository.SetupDataDapperRepository
         public SetupDataDapperRepository()
         {
 
-            connectionString = GenericConstants.ConnectionStringSetUp;
+            connectionString = GenericConstants.ConnectionStringDB1;
             dapperManager = new DapperManager(connectionString);
         }
 
