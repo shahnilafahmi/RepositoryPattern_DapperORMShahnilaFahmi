@@ -1,0 +1,14 @@
+C:\Projects\HRMS\ERP\ERP.Application\bin\Release\ERP.Application.dll
+C:\Projects\HRMS\ERP\ERP.Application\bin\Release\ERP.Application.pdb
+C:\Projects\HRMS\ERP\ERP.Application\bin\Release\Dapper.dll
+C:\Projects\HRMS\ERP\ERP.Application\bin\Release\ERP.Core.dll
+C:\Projects\HRMS\ERP\ERP.Application\bin\Release\ERP.Data.dll
+C:\Projects\HRMS\ERP\ERP.Application\bin\Release\Newtonsoft.Json.dll
+C:\Projects\HRMS\ERP\ERP.Application\bin\Release\ERP.Core.pdb
+C:\Projects\HRMS\ERP\ERP.Application\bin\Release\ERP.Data.pdb
+C:\Projects\HRMS\ERP\ERP.Application\bin\Release\ERP.Data.dll.config
+C:\Projects\HRMS\ERP\ERP.Application\obj\Release\ERP.Application.csproj.AssemblyReference.cache
+C:\Projects\HRMS\ERP\ERP.Application\obj\Release\ERP.Application.csproj.CoreCompileInputs.cache
+C:\Projects\HRMS\ERP\ERP.Application\obj\Release\ERP.Application.csproj.CopyComplete
+C:\Projects\HRMS\ERP\ERP.Application\obj\Release\ERP.Application.dll
+C:\Projects\HRMS\ERP\ERP.Application\obj\Release\ERP.Application.pdb

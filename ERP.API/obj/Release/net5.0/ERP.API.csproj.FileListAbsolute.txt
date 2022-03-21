@@ -1,0 +1,103 @@
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\appsettings.Development.json
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\appsettings.json
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\ERP.API.exe
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\ERP.API.deps.json
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\ERP.API.runtimeconfig.json
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\ERP.API.runtimeconfig.dev.json
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\ERP.API.dll
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\ref\ERP.API.dll
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\ERP.API.pdb
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\System.Data.SqlClient.dll
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\ERP.Application.dll
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\ERP.Core.dll
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\ERP.Data.dll
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\Dapper.dll
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\ERP.Application.pdb
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\ERP.Core.pdb
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\ERP.Data.pdb
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\ERP.Data.dll.config
+C:\Projects\ERP - Copy\ERP\ERP.API\bin\Release\net5.0\Dapper.xml
+C:\Projects\ERP - Copy\ERP\ERP.API\obj\Release\net5.0\ERP.API.csproj.AssemblyReference.cache
+C:\Projects\ERP - Copy\ERP\ERP.API\obj\Release\net5.0\ERP.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ERP - Copy\ERP\ERP.API\obj\Release\net5.0\ERP.API.AssemblyInfoInputs.cache
+C:\Projects\ERP - Copy\ERP\ERP.API\obj\Release\net5.0\ERP.API.AssemblyInfo.cs
+C:\Projects\ERP - Copy\ERP\ERP.API\obj\Release\net5.0\ERP.API.csproj.CoreCompileInputs.cache
+C:\Projects\ERP - Copy\ERP\ERP.API\obj\Release\net5.0\ERP.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\ERP - Copy\ERP\ERP.API\obj\Release\net5.0\ERP.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\ERP - Copy\ERP\ERP.API\obj\Release\net5.0\staticwebassets\ERP.API.StaticWebAssets.Manifest.cache
+C:\Projects\ERP - Copy\ERP\ERP.API\obj\Release\net5.0\staticwebassets\ERP.API.StaticWebAssets.xml
+C:\Projects\ERP - Copy\ERP\ERP.API\obj\Release\net5.0\scopedcss\bundle\ERP.API.styles.css
+C:\Projects\ERP - Copy\ERP\ERP.API\obj\Release\net5.0\ERP.API.RazorTargetAssemblyInfo.cache
+C:\Projects\ERP - Copy\ERP\ERP.API\obj\Release\net5.0\ERP.API.csproj.CopyComplete
+C:\Projects\ERP - Copy\ERP\ERP.API\obj\Release\net5.0\ERP.API.dll
+C:\Projects\ERP - Copy\ERP\ERP.API\obj\Release\net5.0\ref\ERP.API.dll
+C:\Projects\ERP - Copy\ERP\ERP.API\obj\Release\net5.0\ERP.API.pdb
+C:\Projects\ERP - Copy\ERP\ERP.API\obj\Release\net5.0\ERP.API.genruntimeconfig.cache
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\appsettings.Development.json
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\appsettings.json
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\ERP.API.exe
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\ERP.API.deps.json
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\ERP.API.runtimeconfig.json
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\ERP.API.runtimeconfig.dev.json
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\ERP.API.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\ref\ERP.API.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\ERP.API.pdb
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\Hangfire.Core.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\System.Data.SqlClient.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\ca\Hangfire.Core.resources.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\de\Hangfire.Core.resources.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\es\Hangfire.Core.resources.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\fa\Hangfire.Core.resources.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\fr\Hangfire.Core.resources.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\nb\Hangfire.Core.resources.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\nl\Hangfire.Core.resources.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\pt-BR\Hangfire.Core.resources.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\pt-PT\Hangfire.Core.resources.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\pt\Hangfire.Core.resources.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\tr-TR\Hangfire.Core.resources.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\zh-TW\Hangfire.Core.resources.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\zh\Hangfire.Core.resources.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\ERP.Application.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\ERP.Core.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\ERP.Data.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\Dapper.dll
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\ERP.Application.pdb
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\ERP.Core.pdb
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\ERP.Data.pdb
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\ERP.Data.dll.config
+C:\Projects\HRMS\ERP\ERP.API\bin\Release\net5.0\Dapper.xml
+C:\Projects\HRMS\ERP\ERP.API\obj\Release\net5.0\ERP.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\HRMS\ERP\ERP.API\obj\Release\net5.0\ERP.API.AssemblyInfoInputs.cache
+C:\Projects\HRMS\ERP\ERP.API\obj\Release\net5.0\ERP.API.AssemblyInfo.cs
+C:\Projects\HRMS\ERP\ERP.API\obj\Release\net5.0\ERP.API.csproj.CoreCompileInputs.cache
+C:\Projects\HRMS\ERP\ERP.API\obj\Release\net5.0\ERP.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\HRMS\ERP\ERP.API\obj\Release\net5.0\ERP.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\HRMS\ERP\ERP.API\obj\Release\net5.0\staticwebassets\ERP.API.StaticWebAssets.Manifest.cache
+C:\Projects\HRMS\ERP\ERP.API\obj\Release\net5.0\staticwebassets\ERP.API.StaticWebAssets.xml
+C:\Projects\HRMS\ERP\ERP.API\obj\Release\net5.0\scopedcss\bundle\ERP.API.styles.css
+C:\Projects\HRMS\ERP\ERP.API\obj\Release\net5.0\ERP.API.RazorTargetAssemblyInfo.cache
+C:\Projects\HRMS\ERP\ERP.API\obj\Release\net5.0\ERP.API.csproj.CopyComplete
+C:\Projects\HRMS\ERP\ERP.API\obj\Release\net5.0\ERP.API.dll
+C:\Projects\HRMS\ERP\ERP.API\obj\Release\net5.0\ref\ERP.API.dll
+C:\Projects\HRMS\ERP\ERP.API\obj\Release\net5.0\ERP.API.pdb
+C:\Projects\HRMS\ERP\ERP.API\obj\Release\net5.0\ERP.API.genruntimeconfig.cache
+C:\Projects\HRMS\ERP\ERP.API\obj\Release\net5.0\ERP.API.csproj.AssemblyReference.cache

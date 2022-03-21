@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{29957DC8-D47C-412A-A677-627BC17A36FC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ERP.Core</RootNamespace>
+    <AssemblyName>ERP.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Model\TMS_DepartmentShift.cs" />
+    <Compile Include="Model\TMS_Setup_Shift.cs" />
+    <Compile Include="Model\ShiftSearch.cs" />
+    <Compile Include="Model\ActivityDetail.cs" />
+    <Compile Include="Model\HalfDays.cs" />
+    <Compile Include="Model\TMS_Setup_LeaveDefinition.cs" />
+    <Compile Include="Model\TMS_EmployeeLeave.cs" />
+    <Compile Include="Model\TMS_LeaveApplied.cs" />
+    <Compile Include="Model\TMS_Setup_ShiftDetail.cs" />
+    <Compile Include="Model\TMS_TM_Employee_Calendar.cs" />
+    <Compile Include="Model\TMS_AdjustmentReason.cs" />
+    <Compile Include="Model\TMS_DailyActivity.cs" />
+    <Compile Include="Model\TMS_TimeAdjustmentRequest.cs" />
+    <Compile Include="Model\TMS_MonthEndParameter.cs" />
+    <Compile Include="Model\Applications.cs" />
+    <Compile Include="Model\AccessFeatureRolewise.cs" />
+    <Compile Include="Model\InOutTimming.cs" />
+    <Compile Include="Model\ViewCalendar.cs" />
+    <Compile Include="Model\IdAndNameDTO.cs" />
+    <Compile Include="Model\LeaveHistory.cs" />
+    <Compile Include="Model\LeaveBalance.cs" />
+    <Compile Include="Model\EmployeeLeave.cs" />
+    <Compile Include="Model\State.cs" />
+    <Compile Include="Model\EmployeeContactDetail.cs" />
+    <Compile Include="Model\EmployeePersonal.cs" />
+    <Compile Include="Model\HRMS_EmployeeBenefitMapping.cs" />
+    <Compile Include="Model\HRMS_EmployeeBenefits.cs" />
+    <Compile Include="Model\HRMS_EmployeeFamilyInformation.cs" />
+    <Compile Include="Model\HRMS_EmployeeEmergencyContactDetail.cs" />
+    <Compile Include="Model\HRMS_EmployeePersonalInfo.cs" />
+    <Compile Include="Model\HRMS_EmployeeProvidentFund.cs" />
+    <Compile Include="Model\HRMS_EmployeeMedicalInsurance.cs" />
+    <Compile Include="Model\HRMS_EmployeeLifeInsurance.cs" />
+    <Compile Include="Model\HRMS_EmployeeBankDetails.cs" />
+    <Compile Include="Model\HRMS_EmployeeDocuments.cs" />
+    <Compile Include="Model\HRMS_EmployeeProfessionalReference.cs" />
+    <Compile Include="Model\HRMS_EmployeeExperience.cs" />
+    <Compile Include="Model\HRMS_EmployeeEducation.cs" />
+    <Compile Include="Model\SetupMasterDetail.cs" />
+    <Compile Include="Model\SetupMaster.cs" />
+    <Compile Include="Model\UserLocationMapping.cs" />
+    <Compile Include="Model\UserBusinessUnitMapping.cs" />
+    <Compile Include="Model\UserRoleApplicationMapping.cs" />
+    <Compile Include="Model\SearchEmployee.cs" />
+    <Compile Include="Model\Location.cs" />
+    <Compile Include="Model\Employee.cs" />
+    <Compile Include="Model\LeaveType.cs" />
+    <Compile Include="Model\Leave.cs" />
+    <Compile Include="Model\Profession.cs" />
+    <Compile Include="Model\Group.cs" />
+    <Compile Include="Model\EmployeeType.cs" />
+    <Compile Include="Model\EducationType.cs" />
+    <Compile Include="Model\EducationStatus.cs" />
+    <Compile Include="Model\EducationScore.cs" />
+    <Compile Include="Model\JobCategory.cs" />
+    <Compile Include="Model\Designation.cs" />
+    <Compile Include="Model\Religion.cs" />
+    <Compile Include="Model\Domain.cs" />
+    <Compile Include="Model\DocumentSubType.cs" />
+    <Compile Include="Model\DocumentType.cs" />
+    <Compile Include="Model\CostCenter.cs" />
+    <Compile Include="Model\VisaType.cs" />
+    <Compile Include="Model\Currency.cs" />
+    <Compile Include="Model\Country.cs" />
+    <Compile Include="Model\City.cs" />
+    <Compile Include="Model\Company.cs" />
+    <Compile Include="Model\Campaign.cs" />
+    <Compile Include="Model\Department.cs" />
+    <Compile Include="Model\MenuItem.cs" />
+    <Compile Include="Model\BusinessUnit.cs" />
+    <Compile Include="Model\HomeDto.cs" />
+    <Compile Include="Model\MenuFeatureMapping.cs" />
+    <Compile Include="Model\MenuItemFeature.cs" />
+    <Compile Include="Model\CompanyApplication.cs" />
+    <Compile Include="Model\Bank.cs" />
+    <Compile Include="Model\RoleMenuItemFeatureMapping.cs" />
+    <Compile Include="Model\Role.cs" />
+    <Compile Include="Model\TreeViewChildNodes.cs" />
+    <Compile Include="Model\UserLogin.cs" />
+    <Compile Include="Model\UserLoginHistory.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utilities\ConfigurationKey.cs" />
+    <Compile Include="Utilities\EmailSecuritySetUp.cs" />
+    <Compile Include="Utilities\EmailTemplateSecuritySetUp.cs" />
+    <Compile Include="Utilities\HelperClass.cs" />
+    <Compile Include="Utilities\GenericConstants.cs" />
+    <Compile Include="Utilities\Network.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Enums\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

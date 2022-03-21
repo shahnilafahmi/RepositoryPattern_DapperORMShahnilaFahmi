@@ -1,0 +1,12 @@
+C:\Projects\ERP - Copy\ERP\ERP.Utilities\bin\Debug\net5.0\ERP.Utilities.deps.json
+C:\Projects\ERP - Copy\ERP\ERP.Utilities\bin\Debug\net5.0\ERP.Utilities.dll
+C:\Projects\ERP - Copy\ERP\ERP.Utilities\bin\Debug\net5.0\ref\ERP.Utilities.dll
+C:\Projects\ERP - Copy\ERP\ERP.Utilities\bin\Debug\net5.0\ERP.Utilities.pdb
+C:\Projects\ERP - Copy\ERP\ERP.Utilities\obj\Debug\net5.0\ERP.Utilities.csproj.AssemblyReference.cache
+C:\Projects\ERP - Copy\ERP\ERP.Utilities\obj\Debug\net5.0\ERP.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ERP - Copy\ERP\ERP.Utilities\obj\Debug\net5.0\ERP.Utilities.AssemblyInfoInputs.cache
+C:\Projects\ERP - Copy\ERP\ERP.Utilities\obj\Debug\net5.0\ERP.Utilities.AssemblyInfo.cs
+C:\Projects\ERP - Copy\ERP\ERP.Utilities\obj\Debug\net5.0\ERP.Utilities.csproj.CoreCompileInputs.cache
+C:\Projects\ERP - Copy\ERP\ERP.Utilities\obj\Debug\net5.0\ERP.Utilities.dll
+C:\Projects\ERP - Copy\ERP\ERP.Utilities\obj\Debug\net5.0\ref\ERP.Utilities.dll
+C:\Projects\ERP - Copy\ERP\ERP.Utilities\obj\Debug\net5.0\ERP.Utilities.pdb

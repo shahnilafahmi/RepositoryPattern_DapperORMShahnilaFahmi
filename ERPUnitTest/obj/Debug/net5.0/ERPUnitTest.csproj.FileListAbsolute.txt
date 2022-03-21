@@ -1,0 +1,5 @@
+C:\Projects\ERP\ERP\ERPUnitTest\obj\Debug\net5.0\ERPUnitTest.csproj.AssemblyReference.cache
+C:\Projects\ERP\ERP\ERPUnitTest\obj\Debug\net5.0\ERPUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ERP\ERP\ERPUnitTest\obj\Debug\net5.0\ERPUnitTest.AssemblyInfoInputs.cache
+C:\Projects\ERP\ERP\ERPUnitTest\obj\Debug\net5.0\ERPUnitTest.AssemblyInfo.cs
+C:\Projects\ERP\ERP\ERPUnitTest\obj\Debug\net5.0\ERPUnitTest.csproj.CoreCompileInputs.cache

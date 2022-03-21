@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>Exe</OutputType>
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\HomeController.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Hangfire.Core" Version="1.7.27" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ERP.Application">
+      <HintPath>..\ERP.Application\bin\Debug\ERP.Application.dll</HintPath>
+    </Reference>
+    <Reference Include="ERP.Core">
+      <HintPath>..\ERP.Core\bin\Debug\ERP.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="ERP.Data">
+      <HintPath>..\ERP.Data\bin\Debug\ERP.Data.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\zssf.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Documents\HRMS\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\shahnila.fahmi\Desktop\HRMS_PUBLISH</_PublishTargetUrl>
+    <History>True|2021-11-25T08:43:32.8180825Z;True|2021-11-25T13:35:36.9106687+05:00;False|2021-11-25T13:35:05.1305554+05:00;True|2021-11-25T12:12:59.8361399+05:00;True|2021-11-25T12:02:03.8795226+05:00;True|2021-11-25T11:53:44.3695187+05:00;True|2021-11-25T11:46:33.6043927+05:00;True|2021-11-25T11:34:25.7869229+05:00;True|2021-11-25T11:11:26.4626605+05:00;True|2021-11-24T20:15:57.9835391+05:00;True|2021-11-24T20:14:07.6698393+05:00;True|2021-11-24T20:11:58.8246450+05:00;True|2021-11-24T20:08:26.7023516+05:00;True|2021-11-24T20:06:16.2410159+05:00;True|2021-11-24T19:42:19.6558243+05:00;True|2021-11-24T19:36:46.5351949+05:00;True|2021-11-24T18:54:14.1762897+05:00;</History>
+  </PropertyGroup>
+</Project>

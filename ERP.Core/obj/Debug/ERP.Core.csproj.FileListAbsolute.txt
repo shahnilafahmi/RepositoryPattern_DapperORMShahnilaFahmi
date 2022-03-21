@@ -1,0 +1,17 @@
+C:\Projects\ERP\ERP\ERP.Core\bin\Debug\ERP.Core.dll
+C:\Projects\ERP\ERP\ERP.Core\bin\Debug\ERP.Core.pdb
+C:\Projects\ERP\ERP\ERP.Core\obj\Debug\ERP.Core.csproj.CoreCompileInputs.cache
+C:\Projects\ERP\ERP\ERP.Core\obj\Debug\ERP.Core.dll
+C:\Projects\ERP\ERP\ERP.Core\obj\Debug\ERP.Core.pdb
+C:\Projects\ERP\ERP\ERP.Core\obj\Debug\ERP.Core.csprojAssemblyReference.cache
+C:\Projects\ERP - Copy\ERP\ERP.Core\bin\Debug\ERP.Core.dll
+C:\Projects\ERP - Copy\ERP\ERP.Core\bin\Debug\ERP.Core.pdb
+C:\Projects\ERP - Copy\ERP\ERP.Core\obj\Debug\ERP.Core.csproj.CoreCompileInputs.cache
+C:\Projects\ERP - Copy\ERP\ERP.Core\obj\Debug\ERP.Core.dll
+C:\Projects\ERP - Copy\ERP\ERP.Core\obj\Debug\ERP.Core.pdb
+C:\Projects\HRMS\ERP\ERP.Core\bin\Debug\ERP.Core.dll
+C:\Projects\HRMS\ERP\ERP.Core\bin\Debug\ERP.Core.pdb
+C:\Projects\HRMS\ERP\ERP.Core\obj\Debug\ERP.Core.csproj.AssemblyReference.cache
+C:\Projects\HRMS\ERP\ERP.Core\obj\Debug\ERP.Core.csproj.CoreCompileInputs.cache
+C:\Projects\HRMS\ERP\ERP.Core\obj\Debug\ERP.Core.dll
+C:\Projects\HRMS\ERP\ERP.Core\obj\Debug\ERP.Core.pdb

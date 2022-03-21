@@ -1,0 +1,5 @@
+C:\Projects\HRMS\ERP\ERP.Core\bin\Release\ERP.Core.dll
+C:\Projects\HRMS\ERP\ERP.Core\bin\Release\ERP.Core.pdb
+C:\Projects\HRMS\ERP\ERP.Core\obj\Release\ERP.Core.csproj.CoreCompileInputs.cache
+C:\Projects\HRMS\ERP\ERP.Core\obj\Release\ERP.Core.dll
+C:\Projects\HRMS\ERP\ERP.Core\obj\Release\ERP.Core.pdb
